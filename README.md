@@ -1,5 +1,3 @@
-# Simonangelique_1_01092020
-
 Projet 1 - Découvrez le quotidien d'un développeur web du parcours Developpeur Web avec OpenClassrooms 
 
 Ceci est le Projet 1 de la Formation de Développeur Web avec l'école en ligne OpenClassrooms
