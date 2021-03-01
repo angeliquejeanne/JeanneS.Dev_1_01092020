@@ -9,3 +9,6 @@ Pour ce projet, vous fournirez un dossier compressé en ZIP contenant :
     l’offre d’emploi de vos rêves.
 
 Pour compléter ce projet et faire un suivi plus complet de ma formation j'y ai ajouter un Trello, vous pouvez trouver l'adresse du planning sur la droite sous la description.
+
+
+Aide pour le planning : https://docs.google.com/spreadsheets/d/1d2UDQsWP0oOl5MJvDYWg0CwgyTHq1KKwUXwn6ZuZsok/edit#gid=1662823444
